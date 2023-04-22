@@ -39,7 +39,7 @@ Jika membandingkan dua orang yang memiliki usia, jenis kelamin, lama pengalaman 
 Jika membandingkan dua orang yang memiliki jenis kelamin dan tingkat pendidikan yang sama, serta pengalaman kerja 0 tahun, seseorang yang usianya 1 tahun lebih tua dari 37 tahun diperkirakan memiliki gaji lebih tinggi 3042 dollar daripada seseorang berusia 37 tahun.
 
 #### Interpretasi jenis kelamin
-Jika membandingkan dua orang yang memiliki usia, lama pengalaman kerja, dan tingkat pendidikan yang sama, perempuan diperkiraan memiliki gaji lebih sedikit 9311 dollar dibandingkan laki-laki.
+Jika membandingkan dua orang yang memiliki usia, lama pengalaman kerja, dan tingkat pendidikan yang sama, perempuan diperkirakan memiliki gaji lebih sedikit 9311 dollar dibandingkan laki-laki.
 
 #### Interpretasi lama pengalaman kerja
 Jika membandingkan dua orang berusia 37 tahun yang memiliki jenis kelamin dan tingkat pendidikan yang sama, seseorang dengan lama pengalaman kerja lebih lama 1 tahun diperkirakan memiliki gaji lebih tinggi 2561 dollar.
